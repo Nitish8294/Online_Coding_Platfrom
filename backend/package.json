@@ -4,7 +4,7 @@
   "description": "",
   "main": "src/index.js",
   "engines": {
-    "node": ">=22.0.0"
+    "node": "22.x"
   },
   "scripts": {
     "test": "jest",
